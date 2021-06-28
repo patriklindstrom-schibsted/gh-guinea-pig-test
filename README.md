@@ -6,3 +6,4 @@ Example of test:
 * Can we clone?
 * Can we make a pull request? will try
 I will def test darkmode
+Elastic search was a wild ride see : [CHG271942] We will restart Elastic Search engine on GitHub Server and gather more stats
