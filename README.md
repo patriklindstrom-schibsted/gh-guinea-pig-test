@@ -9,3 +9,6 @@ Example of test:
 I will def test darkmode
 I wonder when Darkmode will be avaible. not yet thou . but now we have TLS 1.2 and TLS 1.3 at least
 Metric rules CHG272342
+checking Change Request CHG272406 https://schibsted.service-now.com/nav_to.do?uri=change_request.do?sys_id=2b1d2f011b1f30103515ea0e6e4bcb48
+Seems to work fine . 
+Ill save 
