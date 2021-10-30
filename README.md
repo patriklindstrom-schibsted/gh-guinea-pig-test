@@ -13,3 +13,4 @@ checking Change Request CHG272441 https://schibsted.service-now.com/nav_to.do?ur
 Seems to work fine . 
 See if DarkModes work 
 Yes it does see https://github.schibsted.io/settings/appearance
+Replica is running its migration now.
