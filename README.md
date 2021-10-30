@@ -11,4 +11,5 @@ I wonder when Darkmode will be avaible. not yet thou . but now we have TLS 1.2 a
 Metric rules[CHG272441] Update of GitHub Enterprise Server from 3.14 => 3.2.2  and enable Security Code Scanning
 checking Change Request CHG272441 https://schibsted.service-now.com/nav_to.do?uri=change_request.do?sys_id=53f6b09edb9f341013ae6e8cd3961900
 Seems to work fine . 
-See if DarkModes work
+See if DarkModes work 
+Yes it does see https://github.schibsted.io/settings/appearance
