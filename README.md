@@ -14,3 +14,5 @@ Seems to work fine .
 See if DarkModes work 
 Yes it does see https://github.schibsted.io/settings/appearance
 Replica is running its migration now.
+Packages are soo cool 
+thanks to>. Change RequestCHG272532 read more about it here https://docs.github.com/en/enterprise-server@3.2/admin/packages/enabling-github-packages-with-aws
