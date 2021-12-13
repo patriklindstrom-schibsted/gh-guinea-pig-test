@@ -18,3 +18,7 @@ Packages are soo cool
 thanks to>. Change RequestCHG272532 read more about it here https://docs.github.com/en/enterprise-server@3.2/admin/packages/enabling-github-packages-with-aws
 
 cool the upgrade worked with no downtime
+
+Security update of GitHub 00:30 from 3.2.4 to 3.2.6 see CHG272666 due to vulnerability to log4shell. Should be no downtime. 
+
+https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/
