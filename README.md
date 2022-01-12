@@ -23,3 +23,4 @@ Security update of GitHub 00:30 from 3.2.4 to 3.2.6 see CHG272666 due to vulnera
 
 https://github.blog/2021-12-13-githubs-response-to-log4j-vulnerability-cve-2021-44228/
 Upgraded to 3.3.1 https://docs.github.com/en/enterprise-server@3.3/admin/release-notes
+New root disk with more space > cool
